@@ -32,7 +32,9 @@ Git is Awesome!
 
 Oi! Esse é um repositório para poemas sobre arco iris :D
 
-I love it so much I am editing a copy as a Pull Request
+I love it so much I am editing a copy as a Pull Request 
+
+Denna kurs ar fantastisk (This course is fantastic)
 
 **Das ist ein Repo für mein Regenbogengedicht. Du wirst es definitiv lieben.**
 
